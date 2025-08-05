@@ -8,8 +8,13 @@ Welcome to **LookerStudio101**, where you’ll learn to harness the power of **L
 
 ## **📚 Lecture Slides**
 
-Access the **Lecture Slides** for each lab here:
-[Lecture Slides - (Basic) LookerStudio101](https://github.com/kaopanboonyuen/LookerStudio101/blob/main/slides/Basic_LookerStudio101.pdf)
+Explore the **Looker Studio** lecture slides for each lab:
+
+* 🌟 **Basic LookerStudio101**
+  [View Slide: Basic_LookerStudio101.pdf](https://github.com/kaopanboonyuen/LookerStudio101/blob/main/slides/Basic_LookerStudio101.pdf)
+
+* 🚀 **Advanced LookerStudio101**
+  [View Slide: N/A](https://github.com/kaopanboonyuen/LookerStudio101/blob/main/slides/Advanced_LookerStudio101.pdf)
 
 ---
 
