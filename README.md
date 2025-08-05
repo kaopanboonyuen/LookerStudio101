@@ -21,9 +21,9 @@ Explore the **Looker Studio** lecture slides for each lab:
 ## **👨‍🏫 Instructor**
 
 **Teerapong Panboonyuen (P'Kao), Ph.D.**
-Lecturer and Data Visualization Expert
-Email: [teerapong.pa@chula.ac.th](mailto:teerapong.pa@chula.ac.th)
-Email: [panboonyuen.kao@gmail.com](mailto:panboonyuen.kao@gmail.com)
+- Lecturer and Data Visualization Expert
+- Email: [teerapong.pa@chula.ac.th](mailto:teerapong.pa@chula.ac.th)
+- Email: [panboonyuen.kao@gmail.com](mailto:panboonyuen.kao@gmail.com)
 
 ---
 
