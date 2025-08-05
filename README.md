@@ -51,6 +51,24 @@ You can download the dataset for clinical resources here:
 
 ---
 
+##  📊 **Assignment 1: Data Exploration & Visualization** 🚀
+
+### **What’s the Deal?**
+
+For **Assignment 1**, you're free to choose any **public dataset** (or your own, like YouTube analytics, Shopee/Lazada sales, etc.). The task is simple: **ask 5 meaningful questions** about your data and use **Looker Studio** to create a dashboard that visually answers them.
+
+### **What You Need to Do:**
+
+1. **Pick your dataset** — Choose something that excites you.
+2. **Ask 5 insightful questions** — Dive into trends, patterns, or new insights.
+3. **Visualize the answers** — Use **Looker Studio** to create your dashboard.
+
+### 🔗 **Resources:**
+
+- [Assignment 1 (LookerStudio-Laboratory-Activities-01.pdf)](https://github.com/kaopanboonyuen/LookerStudio101/blob/main/assignments/LookerStudio-Laboratory-Activities-01.pdf)
+
+---
+
 ## **How to Get Started**
 
 ### Step 1: Clone the Repository
