@@ -9,7 +9,7 @@ Welcome to **LookerStudio101**, where you’ll learn to harness the power of **L
 ## **📚 Lecture Slides**
 
 Access the **Lecture Slides** for each lab here:
-[Lecture Slides - LookerStudio101](https://github.com/kaopanboonyuen/XXXX/slides/)
+[Lecture Slides - LookerStudio101](https://github.com/kaopanboonyuen/LookerStudio101/slides/)
 
 ---
 
@@ -109,3 +109,13 @@ We love contributions! Fork the repository, submit issues, and make pull request
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+# Disclaimer
+
+The datasets and lecture materials provided in this repository are for **academic use only**, intended solely for classroom instruction. Some datasets may contain **personal or sensitive information**, and users must comply with all applicable **data protection regulations**, including the **Personal Data Protection Act (PDPA)**. Any data scraped from platforms such as **Twitter** is for **educational purposes only** and must not be used for commercial or unauthorized activities. 
+
+**Redistribution, modification, or public sharing** of these materials without explicit permission is prohibited. By using these resources, you agree to follow these guidelines and understand that any **misuse** may result in **academic or legal consequences**.
+
+---
