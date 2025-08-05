@@ -9,7 +9,7 @@ Welcome to **LookerStudio101**, where you’ll learn to harness the power of **L
 ## **📚 Lecture Slides**
 
 Access the **Lecture Slides** for each lab here:
-[Lecture Slides - LookerStudio101](https://github.com/kaopanboonyuen/LookerStudio101/slides/)
+[Lecture Slides - (Basic) LookerStudio101](https://github.com/kaopanboonyuen/LookerStudio101/blob/main/slides/Basic_LookerStudio101.pdf)
 
 ---
 
@@ -31,7 +31,7 @@ In this lab, you’ll create a global disaster dashboard, exploring data on **ts
 #### **Dataset**:
 
 You can download the dataset for global disaster data here:
-[Download Disaster Dataset (CSV)](https://github.com/kaopanboonyuen/LookerStudio101/dataset/disaster_text.csv)
+[Download Disaster Dataset (CSV)](https://github.com/kaopanboonyuen/LookerStudio101/raw/main/dataset/disaster_text.csv)
 
 ---
 
@@ -42,7 +42,7 @@ In this lab, you’ll create a dashboard to visualize **Thailand’s clinical re
 #### **Dataset**:
 
 You can download the dataset for clinical resources here:
-[Download Thailand Clinical Resources Dataset (CSV)](https://github.com/kaopanboonyuen/LookerStudio101/dataset/med_resources_text.csv)
+[Download Thailand Clinical Resources Dataset (CSV)](https://raw.githubusercontent.com/kaopanboonyuen/LookerStudio101/main/dataset/med_resources_data.csv)
 
 ---
 
