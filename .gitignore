@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# macOS system files
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Python bytecode files
+*.pyc
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.bak
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Environment files
+.env
