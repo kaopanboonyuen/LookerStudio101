@@ -14,7 +14,7 @@ Explore the **Looker Studio** lecture slides for each lab:
   [View Slide: Basic_LookerStudio101.pdf](https://github.com/kaopanboonyuen/LookerStudio101/blob/main/slides/Basic_LookerStudio101.pdf)
 
 * 🚀 **Advanced LookerStudio101**
-  [View Slide: N/A](https://github.com/kaopanboonyuen/LookerStudio101/blob/main/slides/Advanced_LookerStudio101.pdf)
+  [N/A](https://github.com/kaopanboonyuen/LookerStudio101/blob/main/slides/Advanced_LookerStudio101.pdf)
 
 ---
 
