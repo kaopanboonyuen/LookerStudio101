@@ -114,15 +114,6 @@ To further enhance your skills, refer to these resources:
 
 ---
 
-## **Contact**
-
-For inquiries or collaborations, reach out to:
-**Teerapong Panboonyuen (P'Kao), Ph.D.**
-Email: [teerapong.pa@chula.ac.th](mailto:teerapong.pa@chula.ac.th)
-Email: [panboonyuen.kao@gmail.com](mailto:panboonyuen.kao@gmail.com)
-
----
-
 ## **Contributing**
 
 We love contributions! Fork the repository, submit issues, and make pull requests. If you have suggestions for improvement, don’t hesitate to open an issue or reach out.
